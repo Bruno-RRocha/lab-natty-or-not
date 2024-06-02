@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# I.A e responsabilidade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um prompt para a ferramenta GEMINI para gerar um roteiro passo a passo de como desenvolver o projeto, com esse insight parti para um segundo prompt de um roteiro com a ferramenta sugerida pela I.A.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+. Gemini
+. Vidnoz
+. Word
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensei em um vídeo curto, com frases filosóficas com o tema I.A, desenvolvi o tema I.A e responsabilidade em sua utilização.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um vídeo simples e direto, projeto de nível iniciante, no entanto me foi muito satisfatório utilizar as ferramentas e aprender mais sobre I.A.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Tentei criar um vídeo com ajuda da I.A, aprendi no processo, simular a realidade em vídeo e uma tarefa complicada, mas como pude perceber que a tecnologia está nesta direção de conseguir de fato se passar por real, meu vídeo, no entanto não chegou lá, vou continuar aprendendo.
 ```
 
 ### Exemplos e Insigths
